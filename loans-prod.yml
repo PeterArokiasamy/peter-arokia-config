@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Arokia loans related prod APIs "
+  message: "Welcome to Arokia loans related production APIs "
   contactDetails:
     name: "Sawari Ammal - Product Owner"
     email: "sawari@arokia.com"
