@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to Arokia cards related Quality Assurance APIs "
+  message: "Welcome to Arokia cards related QA APIs "
   contactDetails:
     name: "Prayan Arokia - QA Lead"
     email: "prayan@arokia.com"

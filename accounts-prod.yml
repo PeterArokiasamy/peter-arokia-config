@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Arokia accounts related Production APIs "
+  message: "Welcome to Arokia accounts related prod APIs "
   contactDetails:
     name: "Sawari Ammal - Product Owner"
     email: "{cipher}d81a5bab9c1168a0bece9094b20b9469e1ddaf9f27b5e0f0797fbf286aad37ed791cd6c876c1b205d44258753ad98ab1"
