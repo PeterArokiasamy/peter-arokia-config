@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Arokia accounts related local APIs "
+  message: "Welcome to Arokia accounts related docker APIs "
   contactDetails:
     name: "John Alex - Developer"
     email: "john@arokia.com"
